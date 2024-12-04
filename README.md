@@ -30,6 +30,6 @@ Currently, I am studying various front-end tools to apply and increase my knowle
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
 [![fb](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)][fb]
 
-[line]: https://line.me/ti/p/yijyFJm44j
+[line]: https://line.me/ti/p/yijyFJm44J
 [linkedin]: https://www.linkedin.com/in/chen-punak/
 [fb]: https://www.facebook.com/ChenPunak
